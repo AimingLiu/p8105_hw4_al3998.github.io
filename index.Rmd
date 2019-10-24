@@ -10,20 +10,19 @@ output:
 
 ## This is my awesome website
 
-
+***
 
 ### Basic Information
 
-Aiming Liu:
-
-ADDRESS:100 Haven Ave,
-        New York, NY 10032
-        
-EMAIL:  aiming.liu@outlook.com
-
-born on April 28, 1997,in Jiangsu China
+- __Name:__ Aiming Liu
+- __Occupation:__ "Student"
+- __Hobbies:__ Playing the piano & flute 
+- __Address:__ 100 Haven Ave,New York, NY 10032
+- __Email:__ aiming.liu@outlook.com
+- __Birthday:__  April 28, 1997       
+- __Hometown:__  Lianyungang,Jiangsu,China
 
 ![](aiming.jpeg)
 
-If you want to know me more specifically,click [here](about-me-.html)!
+- __If you want to know me more specifically,click the four parts on the top of this website!__
 

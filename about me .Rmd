@@ -4,6 +4,8 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: Sandstone
+    theme: sandstone
 ---
-I am creating my own website
+Let me show you more about me 
+
+![](aiming.jpeg)

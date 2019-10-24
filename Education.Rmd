@@ -14,8 +14,8 @@ output:
 Nanjing, China  
 09/2015 ~ 06/2019
 
-*  Degree  	Bachelor of Science
-*  Major   	Public Affairs Management (Health Service Administration)
+  - __Degree:__   Bachelor of Science
+  - __Major:__   Public Affairs Management (Health Service Administration)
 
 You can learn something about the university through [the website](http://english.njmu.edu.cn)
 
@@ -28,7 +28,15 @@ This is the school badge of NANJING MEDICAL UNIVERSITY
 ###  Columbia University(Mailman School of Public Health)
 
 ***
+You can learn something about Columbia University through this [link](https://www.columbia.edu/)
 
 You can learn something about Mailman through this [link](https://www.mailman.columbia.edu)
 
- * Degree    Master of Science in Biostatistics(studying)
+***
+
+Let me also show you the school badge of Columbia University
+
+![](columbia school badge.jpg)
+
+
+ - __Degree:__    Master of Science in Biostatistics(studying)
