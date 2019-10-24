@@ -10,28 +10,37 @@ output:
 ## The First Affiliated Hospital of Kangda College of Nanjing Medical University                         01/2017-08/2018
 Part-time Research Intern	Supervisors : Dr. Xiguang Liu & Dr. Hongwei Zhang	
 
-### Statistical Analysis of Clinical Data
-•	Learned and practiced to analyze clinical data with statistical analysis methods including hypothesis tests, regression, ANOVA, PCA, survival analysis and prognostic factor analysis etc.
-•	Assisted to perform statistical analysis in one preclinical trial and two prognosis studies. Independently worked on one study and finished a first-author manuscript about prognosic factor analysis now under review by PLOS one.
+***
 
-### Medical Record Organization and Publication Writing
+* Statistical Analysis of Clinical Data
+   + Learned and practiced to analyze clinical data with statistical analysis methods including hypothesis tests, regression, ANOVA, PCA, survival analysis and prognostic factor analysis etc.
+   + Assisted to perform statistical analysis in one preclinical trial and two prognosis studies. Independently worked on one study and finished a first-author manuscript about prognosic factor analysis now under review by PLOS one.
 
-•	Assisted doctors to collect medical cases for research study and organize the medical records based on the types of symptom, treatment, and prognosis.
+***
 
-•	Learned research design and academic writing; helped with the descriptive statistics and part of the manuscript writing in two medical papers.
+* Medical Record Organization and Publication Writing
+   +  Assisted doctors to collect medical cases for research study and organize the medical records based on the types of symptom, treatment, and prognosis.
+   +  Learned research design and academic writing; helped with the descriptive statistics and part of the manuscript writing in two medical papers.
+
+***
 
 ## School of Health Policy & Management, Nanjing Medical University	03-05/2017 & 09-10/2017
-### Design of the Hospitalization Information Management System for a Pediatric Hospital
 
-•	Employed database technology to organize data of all types: patient, doctor, administration, and medical care, plan the data flow, optimize hospitalization process, and design the database architecture and input/output system.
+***
 
-•	Realized most functional modules including the database construction with mySQL and GUI with VB.
+* Design of the Hospitalization Information Management System for a Pediatric Hospital
 
-### Investigating the Informationization & Intelligentization of Sir Run Run Hospital Outpatient Department
+  +	 Employed database technology to organize data of all types: patient, doctor, administration, and medical care, plan the data flow, optimize hospitalization process, and design the database architecture and input/output system.
 
-•	Observed the outpatient process in hospital for days and investigated every possible procedure and available measures including service counters, self-service machine, or Mobile app. 
+  +  Realized most functional modules including the database construction with mySQL and GUI with VB.
 
-•	Finished an investigation report including the assessment results of different measures for every procedure and advices on how to achieve a systematic process optimization.
+***
+
+ * Investigating the Informationization & Intelligentization of Sir Run Run Hospital Outpatient Department
+
+    + Observed the outpatient process in hospital for days and investigated every possible procedure and available measures including service counters, self-service machine, or Mobile app. 
+
+    +	Finished an investigation report including the assessment results of different measures for every procedure and advices on how to achieve a systematic process optimization.
 
 
 

@@ -6,8 +6,24 @@ output:
     toc_float: true
     theme: sandstone
 ---
+***
 
-# This is my awesome website
-You can learn about me [here](about-me-.html)
+## This is my awesome website
 
+
+
+### Basic Information
+
+Aiming Liu:
+
+ADDRESS:100 Haven Ave,
+        New York, NY 10032
+        
+EMAIL:  aiming.liu@outlook.com
+
+born on April 28, 1997,in Jiangsu China
+
+![](aiming.jpeg)
+
+If you want to know me more specifically,click [here](about-me-.html)!
 

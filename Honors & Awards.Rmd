@@ -7,22 +7,22 @@ output:
     theme: sandstone
 ---
 
-# 2016-2017	Individual Scholarship
+### 2016-2017	Individual Scholarship
 
+***
 
+### 2016-2017	Outstanding Student Leader Award
 
-# 2016-2017	Outstanding Student Leader Award
+***
 
+### 2015-2016	Academic Scholarship, 3rd prize
 
+***
 
-# 2015-2016	Academic Scholarship, 3rd prize
+### 2015-2016	Merit Student Award
 
+***
 
-
-# 2015-2016	Merit Student Award
-
-
-
-# 2015-2016	Outstanding Volunteer Award
+### 2015-2016	Outstanding Volunteer Award
 
 
