@@ -1,7 +1,16 @@
-name: "Yay internet!"
+name: "Aiming Liu"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Aiming Liu"
+  left:
+    - text: "Education"
+      href: Education.html
+    - text: "Research & Internship"
+      href: Research---Internship.html
+    - text: "Honors & Awards"
+      href: Honors---Awards.html
+    - text: "Volunteer & Leadership"
+      href: Volunteer---Leadership.html
   right:
     - text: "About"
       href: about.html
@@ -11,4 +20,4 @@ navbar:
       href: https://github.com/AimingLiu
 output:
   html_document:
-    theme: slate
+    theme: sandstone

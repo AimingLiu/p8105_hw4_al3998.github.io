@@ -4,10 +4,10 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: sandstone
 ---
 
-# This is some 
-You can learn about me
+# This is my awesome website
+You can learn about me [here](about-me-.html)
 
 

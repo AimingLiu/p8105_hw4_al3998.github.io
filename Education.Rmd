@@ -1,0 +1,23 @@
+---
+title: "Education  "
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: sandstone
+---
+
+# NANJING MEDICAL UNIVERSITY        
+Nanjing, China  
+09/2015 ~ 06/2019
+
+You can learn something about the university through [the website](http://english.njmu.edu.cn)
+
+let me show you some pictures about my university
+This is the school badge of NANJING MEDICAL UNIVERSITY
+![](school badge.jpg)
+
+
+# Degree  	Bachelor of Science 
+
+# Major	Public Affairs Management (Health Service Administration)
