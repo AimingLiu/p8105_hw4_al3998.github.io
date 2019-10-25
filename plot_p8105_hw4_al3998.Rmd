@@ -1,0 +1,20 @@
+---
+title: "plot_p8105_hw4_al3998"
+author: "AimingLiu"
+date: "10/24/2019"
+output: 
+  html_document:
+  code_folding: hide
+  toc: true
+  toc_float: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+library(plotly)
+```
+
